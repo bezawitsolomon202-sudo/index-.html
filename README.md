@@ -6,7 +6,6 @@
     <title>Bezawit Solomon | Portfolio</title>
 </head>
 <body>
-
 <!-- Navigation Section -->
 <header>
     <h1>Bezawit Solomon Bogale</h1>
