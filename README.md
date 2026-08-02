@@ -24,11 +24,9 @@
     <section id="about">
         <h2>About Me</h2>
         <p>I am a graduate in Urban Planning and Design from Addis Ababa University. I specialize in spatial planning, municipal urban management, and visual layouts.</p>
-
         <!-- Portfolio Photo Tag -->
         <img src="https://via.placeholder.com/150" alt="A professional portrait of Bezawit Solomon">
     </section>
-
   <!-- Skills and Hobbies Section -->
 <section id="skills">
     <h2>Skills & Hobbies</h2>
@@ -38,10 +36,31 @@
         <li>Graphic Design & Illustration (Adobe Illustrator, Photoshop)</li>
         <li>Data Analysis Fundamentals (Microsoft Excel)</li>
     </ul>
-
     <h3>Personal Hobbies</h3>
     <p>Outside of work, I enjoy cooking, reading books, listening to music, and traveling.</p>
 </section>  
+<!-- Contact Information Section -->
+    <section id="contact">
+        <h2>Get In Touch</h2>
+        <form action="#" method="POST">
+            <p>
+                <label for="name">Bezawit Solomon Bogale:</label>
+                <input type="text" id="name" name="name" required>
+            </p>
+            <p>
+                <label for="email">bezawitsolomon202@gmail.com:</label>
+                <input type="email" id="email" name="email" required>
+            </p>
+            <p>
+                <button type="submit">Send Message</button>
+            </p>
+        </form>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2026 Bezawit Solomon. All rights reserved.</p>
+</footer>
 </main>
 </body>
 </html># index-.html
