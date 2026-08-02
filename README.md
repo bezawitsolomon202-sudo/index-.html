@@ -25,7 +25,7 @@
         <h2>About Me</h2>
         <p>I am a graduate in Urban Planning and Design from Addis Ababa University. I specialize in spatial planning, municipal urban management, and visual layouts.</p>
         <!-- Portfolio Photo Tag -->
-        <img src="https://via.placeholder.com/150" alt="A professional portrait of Bezawit Solomon">
+        <img src="profile.jpg" alt="A portrait of Bezawit Solomon">
     </section>
   <!-- Skills and Hobbies Section -->
 <section id="skills">
