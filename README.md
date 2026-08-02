@@ -7,5 +7,16 @@
 </head>
 <body>
 
+<!-- Navigation Section -->
+<header>
+    <h1>Bezawit Solomon Bogale</h1>
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#skills">Skills & Hobbies</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
 </body>
 </html># index-.html
