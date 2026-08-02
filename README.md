@@ -28,6 +28,20 @@
         <!-- Portfolio Photo Tag -->
         <img src="https://via.placeholder.com/150" alt="A professional portrait of Bezawit Solomon">
     </section>
+
+  <!-- Skills and Hobbies Section -->
+<section id="skills">
+    <h2>Skills & Hobbies</h2>
+    <h3>Professional Skills</h3>
+    <ul>
+        <li>Urban Planning & Spatial Design</li>
+        <li>Graphic Design & Illustration (Adobe Illustrator, Photoshop)</li>
+        <li>Data Analysis Fundamentals (Microsoft Excel)</li>
+    </ul>
+
+    <h3>Personal Hobbies</h3>
+    <p>Outside of work, I enjoy cooking, reading books, listening to music, and traveling.</p>
+</section>  
 </main>
 </body>
 </html># index-.html
