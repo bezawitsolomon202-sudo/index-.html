@@ -46,7 +46,7 @@
                 <input type="text" id="name" name="name" required>
             </p>
             <p>
-                <label for="email">bezawitsolomon202@gmail.com:</label>
+               <label for="email"><ahref="mailto:bezawitsolomon202@gmail.com">bezawitsolomon202@gmail.com</a>:</label>
                 <input type="email" id="email" name="email" required>
             </p>
             <p>
@@ -58,7 +58,6 @@
 
 <footer>
     <p>&copy; 2026 Bezawit Solomon. All rights reserved.</p>
-</footer>
-</main>
+</foot
 </body>
 </html># index-.html
